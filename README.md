@@ -1,4 +1,3 @@
- Project Cost Analysis Tool
 This Python tool is designed to support construction project cost monitoring in a structural engineering context. 
 1.It reads structured project data from a .csv file and performs the following operations:
 2.Loads site-level project data including estimated and actual material costs, labour costs, and construction durations
